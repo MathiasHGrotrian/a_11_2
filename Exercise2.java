@@ -1,4 +1,4 @@
-/*package Chapter11;
+package Chapter11;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
@@ -23,7 +23,7 @@ should be placed consecutively at the end. For example, for a first list of [1, 
   [1, 6, 2, 7, 3, 8, 4, 9, 5, 10, 11, 12].
      */
 
-/*
+
 
     public static void main(String[] args)
     {
@@ -74,4 +74,3 @@ should be placed consecutively at the end. For example, for a first list of [1, 
     }
 }
 
-*/
